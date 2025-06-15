@@ -1,3 +1,3 @@
 # wodeul
 
-Wodeul is WOnDErfUL!
+wodeul is WOnDErfUL!
